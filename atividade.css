@@ -1,0 +1,56 @@
+body{
+    background-image: url(loney.webp);
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+header{
+    text-align: center;
+    
+    border-radius: 40px;
+}
+nav{
+    text-align: center;
+    align-items: center; 
+    
+}
+.primeiro{
+    
+    display: flex;
+    text-align: justify;
+    justify-content: space-evenly;
+    border-radius: 40px;
+}
+img{
+    border-radius: 200px;
+}
+aside{
+    display: flex;
+    float: left;
+    padding-left: 60px;
+    
+}
+section{
+    padding-right: 60px;
+    float: right;
+    text-align: center;
+    justify-content: right;
+}
+button{
+    background-color: rgb(47, 9, 184);
+    color: white;
+    border-radius: 60px;
+}
+footer{
+    text-align: center;
+    padding-top: 400px;
+}
+pre{
+font-size: larger;
+
+}
+
+label{
+font-size: 20px;
+
+}
